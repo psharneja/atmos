@@ -4,7 +4,7 @@ import 'owfont/css/owfont-regular.css';
 
 const Details = props => (
   <div className="row weather-row">
-    <div className="col-md-2 weather-row__weather">
+    <div className="col-md-2">
       <div className={`owf owf-${props.weather.id}`} />
       <br />
       <span>
@@ -16,7 +16,7 @@ const Details = props => (
       <br />
       {props.date.format('ha')}
     </div>
-    <div className="col-md-3 weather-row__humidity">
+    <div className="col-md-3">
       <span>
         {Math.round(props.humidity)}
 %
@@ -24,7 +24,7 @@ const Details = props => (
 humidity
       </span>
     </div>
-    <div className="col-md-3 weather-row__temp">
+    <div className="col-md-3">
       <span>
         {Math.round(props.temp)}
         <sup>
