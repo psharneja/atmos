@@ -9,7 +9,8 @@ import './App.css';
 import App from './App';
 import registerServiceWorker from './registerServiceWorker';
 
-ReactDOM.render(  
+ReactDOM.render(
   React.createElement(App),
-  document.getElementById('root'));
+  document.getElementById('root'),
+);
 registerServiceWorker();
