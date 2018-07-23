@@ -1,14 +1,11 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 import Title from './components/Title';
-import Form from './components/Form';
 import Weather from './components/Weather';
+import Form from './components/Form';
 
 
-
-class App extends Component {
-  
-  render() {
+function App() {
     return (
       <div className="wrapper">
           <div className="main container">
@@ -26,10 +23,8 @@ class App extends Component {
               </div>
             </div>
           </div>
-        
       </div>
     );
-  }
 }
 
 export default App;
