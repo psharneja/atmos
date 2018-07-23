@@ -15,7 +15,7 @@
     "build": "react-scripts build",
     "test-run": "jest",
     "test:unit": "react-scripts test --env=jsdom --modulePaths=src",
-    "test:lint:js": "eslint --ext=js --ext=jsx .",
+    "test:lint:js": "eslint src/**/*.js[x]",
     "test:lint:css": "stylelint \"**/*.css\"",
     "test": "run-s test:**",
     "eject": "react-scripts eject",
