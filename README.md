@@ -25,6 +25,7 @@ Below are the how to's .<br>
   #CSS Lint:<br>
     - yarn test:lint:css<br>
   <br>
+  #
   ##Future Additions:<br>
     - Location Inputs<br>
     - Option to choose location from Maps<br>
