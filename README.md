@@ -27,6 +27,7 @@ Below are the how to's .<br>
   <br>
   ##Future Additions:<br>
     - Location Inputs<br>
+    - Option to choose location from Maps<br>
     - Tabbed UI For daywise weather forecast<br>
     - More Unit Testcases<br>
   <br>
