@@ -1,6 +1,6 @@
-Welcom to atmos(the weather forecase app)
+Welcom to atmos(the weather forecast app)
 
-atmos gives weather forecast of 5 days for Bengaluru, IN
+atmos shows weather forecast of 5 days for Bengaluru, IN
 
 Below are the how to's .<br>
 
