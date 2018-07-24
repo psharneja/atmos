@@ -6,27 +6,28 @@ Below are the how to's .<br>
 
 
 ## How to's
-  #Clone: 
-    - Git Clone
-    - yarn Install 
-  #Run:
+  #Clone: <br>
+    - Git Clone<br>
+    - yarn Install <br>
+  <br>
+  #Run:<br>
     - yarn start
-  
-  #Build:
+  <br><br>
+  #Build:<br>
     - yarn build
-  
-  #Unit Tests:
-    - yarn test:unit
-    
-  #JS Lint:
-    - yarn test:lint:js
-    
-  #CSS Lint:
-    - yarn test:lint:css
-  
-  ##Future Additions:
-    - Location Inputs
-    - Tabbed UI For daywise weather forecast
-    - More Unit Testcases
-  
-  ## Hosted at: https://psharneja.github.io/atmos
+  <br><br>
+  #Unit Tests:<br>
+    - yarn test:unit<br>
+    <br>
+  #JS Lint:<br>
+    - yarn test:lint:js<br>
+    <br>
+  #CSS Lint:<br>
+    - yarn test:lint:css<br>
+  <br>
+  ##Future Additions:<br>
+    - Location Inputs<br>
+    - Tabbed UI For daywise weather forecast<br>
+    - More Unit Testcases<br>
+  <br>
+  ## Hosted at: https://psharneja.github.io/atmos<br><br><br><br>
