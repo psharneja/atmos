@@ -9,7 +9,7 @@ const Details = ({
 }) => {
   Details.propTypes = {
     weather: PropTypes.instanceOf(Object).isRequired,
-    date: PropTypes.string.isRequired,
+    date: PropTypes.instanceOf(Object).isRequired,
     humidity: PropTypes.string.isRequired,
     temp: PropTypes.string.isRequired,
   };
