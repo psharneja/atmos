@@ -31,5 +31,6 @@ Below are the how to's .<br>
     - Option to choose location from Maps<br>
     - Tabbed UI For daywise weather forecast<br>
     - More Unit Testcases<br>
+    - Separating Components and Services as per SoC
   <br>
   ## Hosted at: https://psharneja.github.io/atmos<br><br><br><br>
