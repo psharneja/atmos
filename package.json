@@ -15,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test:unit": "CI=true react-scripts test --env=jsdom --modulePaths=src",
+    "test:unit": "react-scripts test --env=jsdom --modulePaths=src --coverage",
     "test:lint:js": "eslint src/**/*.js[x]",
     "test:lint:css": "stylelint \"src/*.css\"",
     "test": "run-s test:**",
